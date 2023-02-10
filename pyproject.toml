@@ -2,7 +2,7 @@
 name = "discordbot-template"
 version = "0.0.1"
 description = "Template for a discord bot. Responds to everything with 'Sup Elon Musk'"
-authors = ["<enter your name>"]
+authors = ["chadexplains"]
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<4.0"
